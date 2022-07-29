@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+#Yoldaş Ulaş TALAŞ 
+##this is a markdown portfolio
