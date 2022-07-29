@@ -1,4 +1,4 @@
 # Here Is A List Of My Favorite Things:
--Fishing
--watching movies
--treeking
+- Fishing
+- Watching movies
+- Treeking
