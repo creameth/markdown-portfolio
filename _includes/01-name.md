@@ -1,2 +1,2 @@
-#Yoldaş Ulaş TALAŞ 
-##this is a markdown portfolio
+# Yoldaş Ulaş TALAŞ 
+## This Is A Markdown Portfolio
